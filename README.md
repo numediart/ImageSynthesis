@@ -11,7 +11,7 @@ Un [document Colab](https://colab.research.google.com/drive/1aQMyzxeugQL0iHsj73s
 
 ## Exemples
 Les exemples suivants on été générés avec ce GAN et le modèle biggan-deep-256 (exemple dispo dans le colab)
-![iPod](example_images/ipod.png)
+![iPod](example_images/0_ipod.png)
 ![VTT](example_images/1_mountain-bike.png)
 ![Lanterne](example_images/2_jackolantern.png)
 
