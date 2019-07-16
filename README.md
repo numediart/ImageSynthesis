@@ -9,6 +9,12 @@ Un [document Colab](https://colab.research.google.com/drive/1aQMyzxeugQL0iHsj73s
 - Python 3.6
 - PyTorch 1.0.1
 
+## Exemples
+Les exemples suivants on été générés avec ce GAN et le modèle biggan-deep-256 (exemple dispo dans le colab)
+![iPod](example_images/ipod.png)
+![VTT](example_images/1_mountain-bike.png)
+![Lanterne](example_images/2_jackolantern.png)
+
 ## Mentions légales
 Cette publication a été réalisée dans le cadre du projet FEDER Digistorm, cofinancé par L’Union Européenne et la Région Wallone.
 
